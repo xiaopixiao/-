@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,BMH-AN10,2023-05-03_18-12-53,android,1.7.1,af0a19ec-3501-41c9-91f9-c66043428fdf,Accelerometer|Gravity,20|20
